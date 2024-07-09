@@ -50,7 +50,6 @@ public class SeleniumUtils {
 
     public  Select selectDropdown(WebElement element){
         return new Select(element);
-        //select.selectByVisibleText(text);
     }
 
     public void executeScript(String argument, WebElement element){
