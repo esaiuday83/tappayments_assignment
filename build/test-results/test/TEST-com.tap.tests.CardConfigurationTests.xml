@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tap.tests.CardConfigurationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-09T04:49:13" hostname="Esaikiappans-Laptop.local" time="48.586">
+  <properties/>
+  <testcase name="configureCardTest[0](5123450000000008, 01/39, 100)" classname="com.tap.tests.CardConfigurationTests" time="25.596"/>
+  <testcase name="configureCardTest[1](4508750015741019, 01/39, 100)" classname="com.tap.tests.CardConfigurationTests" time="22.98"/>
+  <system-out><![CDATA[{
+ "pk": "pk_test_YhUjg9PNT8oDlKJ1aE2fMRz7",
+ "currency": "BHD",
+ "locale": "en",
+ "direction": "ltr",
+ "edges": "curved",
+ "theme": "light",
+ "loader": true,
+ "saveCard": true,
+ "cardHolder": true,
+ "cardName": "Ahmed",
+ "displayPaymentBrands": true,
+ "customerId": "",
+ "cardId": "",
+ "amount": 1,
+ "orderId": "",
+ "transactionReference": "tck_LV02G1720231634Xj74610406",
+ "orderReference": "",
+ "invoiceId": "",
+ "supportedBrands": "MADA,VISA,MASTERCARD,AMEX",
+ "mid": "1124340",
+ "scope": "AuthenticatedToken",
+ "colorStyle": "colored",
+ "autoSaveCard": true,
+ "purpose": "Charge",
+ "email": "test@tap.com",
+ "phoneNumber": "1099137777",
+ "countryCode": "+20",
+ "contractId": "",
+ "cardCVV": true,
+ "savedCardCVV": true
+}
+{
+ "pk": "pk_test_YhUjg9PNT8oDlKJ1aE2fMRz7",
+ "currency": "BHD",
+ "locale": "en",
+ "direction": "ltr",
+ "edges": "curved",
+ "theme": "light",
+ "loader": true,
+ "saveCard": true,
+ "cardHolder": true,
+ "cardName": "Ahmed",
+ "displayPaymentBrands": true,
+ "customerId": "",
+ "cardId": "",
+ "amount": 1,
+ "orderId": "",
+ "transactionReference": "tck_LV02G1720231634Xj26285802",
+ "orderReference": "",
+ "invoiceId": "",
+ "supportedBrands": "MADA,VISA,MASTERCARD,AMEX",
+ "mid": "1124340",
+ "scope": "AuthenticatedToken",
+ "colorStyle": "colored",
+ "autoSaveCard": true,
+ "purpose": "Charge",
+ "email": "test@tap.com",
+ "phoneNumber": "1099137777",
+ "countryCode": "+20",
+ "contractId": "",
+ "cardCVV": true,
+ "savedCardCVV": true
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
